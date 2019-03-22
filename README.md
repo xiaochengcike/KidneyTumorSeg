@@ -1,1 +1,1 @@
-# KidneyTumorSeg
+# Kidney and Tumor Segmentation
