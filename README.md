@@ -6,9 +6,6 @@ dataset_split_1: dice similarity coefficients of kidney and kidney tumor segment
 Dice of Kidney Segmentation: 0.9570647169854021 <br />
 Dice of Tumor Segmentation: 0.7809852033199037 <br />
 
-dataset_split_1: progress of training (168 images) and validation (42 images) <br />
-![images](https://github.com/shawnyuen/KidneyTumorSeg/blob/master/3d_lowres/dataset_split_1_progress.png) <br />
-
 dataset_split_1: examples from validation set <br />
 ![images](https://github.com/shawnyuen/KidneyTumorSeg/blob/master/3d_lowres/dataset_split_1_examples.png) <br />
 
